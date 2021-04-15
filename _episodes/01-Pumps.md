@@ -99,5 +99,5 @@ Check it out for yourself (you will need to convert Pressure to head):
 - Convert the pump curve below for various rpm (\\(N\\)), flow (\\(Q\\)) and head (hint: \\(h=\frac{P}{\rho g}\\)). 
 - plot the data using you non-dimensionless terms and you should see the data collapse.
 
-download the pdf [here]({{page.repository}})
-<!-- "../data/pumps/Umzimkulu - Extraction - Submersibles - Dry-prime option.pdf"){:target="_blank"} -->
+download the pdf [here]("https://drive.google.com/file/d/1WGw2qPTvnDWAYuBMNISpr94aUzjWa8qP/view?usp=sharing")
+
