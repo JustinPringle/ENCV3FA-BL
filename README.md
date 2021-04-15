@@ -7,3 +7,6 @@ on how to contribute updates, bug fixes, or other corrections.
 ### Adjusted by
 - Katrin Tirok
 - Justin Pringle
+
+## NB
+running on local with bundle exec jekyll serve
