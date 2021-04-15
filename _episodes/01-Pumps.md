@@ -9,9 +9,9 @@ objectives:
 - develop \\(\\Pi\\) groups for pipe flow through pumps
 keypoints: 
 - The number of base dimensions was 3.
-- The number of variables was 7.
-- We could form 4 \\(\\Pi\\) groups.
-- with a bit of interpretation we found \\(h_f\\) as the Darcy-Weisbach equation
+- The number of variables were 5.
+- We formed two \\(\Pi\\) groups.
+- Using the pump curve we could show how the data collapsed.
 ---
 
 # The Problem
