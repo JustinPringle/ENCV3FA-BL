@@ -1,51 +1,109 @@
 ---
 layout: reference
+permalink: /reference/
 ---
 
 ## Glossary
 
-{:auto_ids}  
-cleaned data  
-:   data that has been manipulated post-collection to remove errors or inaccuracies, introduce desired formatting changes, or otherwise prepare the data for analysis
+{:auto_ids}
+0-based indexing
+:   is a way of assigning indices to elements in a sequential, ordered data structure
+    starting from 0, i.e. where the first element of the sequence has index 0.
 
-conditional formatting  
-:   formatting that is applied to a specific cell or range of cells depending on a set of criteria  
+CSV (file)
+:   is an acronym which stands for Comma-Separated Values file. CSV files store
+    tabular data, either numbers, strings, or a combination of the two, in plain
+    text with columns separated by a comma and rows by the carriage return character.
 
-CSV (comma separated values) format  
-:   a plain text file format in which values are separated by commas
+database
+:   is an organized collection of data.
 
-factor  
-:   a variable that takes on a limited number of possible values (i.e. categorical data)
+dataframe
+:   is a two-dimensional labeled data structure with columns of (potentially)
+    different type.
 
-metadata  
-:   data which describes other data  
+data structure
+:   is a particular way of organizing data in memory.
 
-null value  
-:   a value used to record observations missing from a dataset
+data type
+:   is a particular kind of item that can be assigned to a variable, defined by
+    by the values it can take, the programming language in use and the operations
+    that can be performed on it.
 
-observation  
-:   a single measurement or record of the object being recorded (e.g. the weight of a particular mouse)
+dictionary
+:   is an unordered Python data structure designed to contain key-value pairs, where both
+    the key and the value can be integers, floats or strings. Elements of a dictionary
+    can be accessed by their key and can be modified.
 
-plain text
-:   unformatted text
+docstring
+:   is an optional documentation string to describe what a Python function does.
 
-quality assurance  
-:   any process which checks data for validity during entry  
+faceting
+:   is the act of plotting relationships between set variables in multiple subsets
+    of the data with the results appearing as different panels in the same figure.
 
-quality control  
-:   any process which removes problematic data from a dataset
+float
+:   is a Python data type designed to store positive and negative decimal numbers
+    by means of a floating point representation.
 
-raw data  
-:   data that has not been manipulated and represents actual recorded values
+function
+:   is a group of related statements that perform a specific task.
 
-rich text  
-:  formatted text (e.g. text that appears bolded, colored or italicized)
+integer
+:   is a Python data type designed to store positive and negative integer numbers.
 
-string  
-:   a collection of characters (e.g. "thisisastring")
+interactive mode
+:   is an online mode of operation in which the user writes the commands directly
+    on the command line one-by-one and execute them immediately by pressing a button
+    on the keyword, usually Enter.
 
-TSV (tab separated values) format  
-:   a plain text file format in which values are separated by tabs
+join key
+:   is a variable or an array representing the column names over which pandas.DataFrame.join()
+    merge together columns of different data sets.
 
-variable  
-:   a category of data being collected on the object being recorded (e.g. a mouse's weight)
+library
+:   is a set of functions and methods grouped together to perform some specific
+    sort of tasks.
+
+list
+:   is a Python data structure designed to contain sequences of integers, floats,
+    strings and any combination of the previous. The sequence is ordered and indexed
+    by integers, starting from 0. Elements of a list can be accessed by their index
+    and can be modified.
+
+loop
+:   is a sequence of instructions that is continually repeated until a condition
+    is satisfied.
+
+NaN
+:   is an acronym for Not-a-Number and represents that either a value is missing or
+    the calculation cannot output any meaningful result.
+
+None
+:   is an object that represents no value.
+
+scripting mode
+:   is an offline mode of operation in which the user writes the commands to be
+    executed in a text file (with .py extension for Python) which is then compiled
+    or interpreted to run the program. Notes that Python interprets script on
+    run-time and compiles a binary version of the program to speed up the execution time.
+
+Sequential (data structure)
+:   is an ordered group of objects stored in memory which can be accessed specifying
+    their index, i.e. their position, in the structure.
+
+SQL
+:   or Structured Query Language, is a domain-specific language for managing data
+    stored in a relational database management system (RDBMS).
+
+SQLite
+:   is a self-contained, public domain SQL database engine.
+
+string
+:   is a Python data type designed to store sequences of characters.
+
+tuple
+:   is a Python data structure designed to contain sequences of integers, floats,
+    strings and any combination of the previous. The sequence is ordered and indexed
+    by integers, starting from 0. Elements of a tuple can be accessed by their index
+    but cannot be modified.
