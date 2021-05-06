@@ -6,7 +6,7 @@
 carpentry: "dc"
 
 # Overall title for pages.
-title: "Dimensional Analysis"
+title: "Boundary Layers"
 
 # Contact email address.
 email: lessons@software-carpentry.org
@@ -20,7 +20,7 @@ kind: "lesson"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: JustinPringle/ENCV3FA-DA
+repository: JustinPringle/ENCV3FA-BL
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
