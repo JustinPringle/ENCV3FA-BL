@@ -40,14 +40,14 @@ From the challenge above we can now explore the growth rate for various fluids a
 >## Challenge
 >What is the growth rate of a laminar boundary layer for water?
 > > ## Answer
-> > \\(\sqrt{\frac{\nu}{\rho}}=0.001\\) units
+> > \\(\sqrt{\frac{\mu}{\rho}}=0.001\\) units
 >{: .solution}
 {: .challenge}
 
 >## Challenge
 >What is the growth rate of a laminar boundary layer for air?
 > > ## Answer
-> > \\(\sqrt{\frac{\nu}{\rho}}=0.004\\) units
+> > \\(\sqrt{\frac{\mu}{\rho}}=0.004\\) units
 >{: .solution}
 {: .challenge}
 
