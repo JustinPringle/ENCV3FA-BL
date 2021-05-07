@@ -28,7 +28,7 @@ Density of water and air are \\(1000\\) and \\(1.2 kg/m^3\\) and viscosities are
 > What is the growth rate of a laminar boundary layer?
 > > ## Solution
 > > \\(\frac{\delta}{x} = \frac{5}{Re} \therefore\\)
-> > \\(\delta=\frac{5}{\sqrt{U}}\sqrt{\frac{\nu}{\rho}}\sqrt{x})
+> > \\(\delta=\frac{5}{\sqrt{U}}\sqrt{\frac{\nu}{\rho}}\sqrt{x}\\)
 > {: .solution}
 {: .challenge}
 
