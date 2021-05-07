@@ -34,7 +34,7 @@ Density of water and air are \\(1000\\) and \\(1.2 kg/m^3\\) and viscosities are
 
 ### Growth rate generalized
 
-From the challenege above we can now explore the growth rate for various fluids at various velocities 
+From the challenge above we can now explore the growth rate for various fluids at various velocities 
 
 
 >## Challenge
