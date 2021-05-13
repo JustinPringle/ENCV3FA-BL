@@ -57,7 +57,7 @@ Consider the plot below showing the lift to drag ratio vs angle of attack for tw
 {: .challenge}
 
 >## Challenge
-> What is optimal operating AOA for the large Re and for the smaller Re?
+> What is the optimal operating AOA for the large Re and for the smaller Re?
 > > ## Solution
 > > - Large = around 8-9 degrees
 > > - Small = around 4 degrees
@@ -76,7 +76,7 @@ So we have some insight into how our aerofoil on our helicopter will behave. But
 There are a couple of ways to do this, suppose we want to calculate at what speed the blades must move in order for Ingenuity to hover:
 
 >## Challenge
-> What is lift force required to keep Ingenuity hovering?
+> What is the lift force required to keep Ingenuity hovering?
 > > ## Solution
 > > - 6.66 N
 > {: .solution}
