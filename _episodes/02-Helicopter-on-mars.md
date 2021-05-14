@@ -134,7 +134,7 @@ Let's pause for a second... So we have our lift force (6.66 N) and our velocity 
 >## Challenge
 > What will our power consumption be is we are hovering?
 > > ## Solution
-> > - \\(\text{Power} = \text{force}\times\text{velocity}^2\\)
+> > - \\(\text{Power} = \text{force}\times\text{velocity}\\)
 > > - our force here is the drag force
 > {: .solution}
 {: .challenge}
