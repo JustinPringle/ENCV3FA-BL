@@ -110,7 +110,7 @@ If we now used the rotational speed of the blades we could calculate the velocit
 Let's pause for a second... So we have our lift force (6.66 N) and our velocity at various points on our blade. But what do we do with this? 
 
 - Firstly let's assume a linear distribution of linear veclocity along our blade so we can use the mean velocity in our calcs.
-- So then our coefficient of lift is calculated as \\[C_L=0.5\rho\times (0.6\omega)^2A\\]
+- So then our coefficient of lift is calculated as \\[C_L=\frac{2F_L}{\rho\times (0.6\omega)^2A}\\]
 
 >## Challenge
 > What is A?
