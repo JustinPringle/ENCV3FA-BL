@@ -11,3 +11,8 @@ on how to contribute updates, bug fixes, or other corrections.
 ## NB
 running on local with bundle exec jekyll serve
 I duplicated my ENCV3FA-DA folder following: [here](https://dev.to/ismailpe/duplicating-a-github-repo-with-history-3223)
+
+## Run Locally
+'''
+jekyll serve
+'''

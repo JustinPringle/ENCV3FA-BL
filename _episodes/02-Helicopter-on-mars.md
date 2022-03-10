@@ -103,7 +103,7 @@ If we now used the rotational speed of the blades we could calculate the velocit
 > What is \\(U\\) at the tip of the blade? What is \\(U\\) at the centre?
 > > ## Solution
 > > - \\(U_\text{tip}= 1.2\omega\\)
-> > - \\(U_\text{tip}= 0.6\omega\\)
+> > - \\(U_\text{centre}= 0.6\omega\\)
 > {: .solution}
 {: .challenge}
 

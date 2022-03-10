@@ -20,15 +20,15 @@ Compare (non dimensionally) the rates of growth of the laminar boundary layer ov
 - (b) Flat plate placed in an air stream flowing at 2m/s
 - (c) Flat plate placed in an air stream flowing at 8m/s
 
-Density of water and air are \\(1000\\) and \\(1.2 kg/m^3\\) and viscosities are \\(0.001\\) and \\(0.000 019 Ns/m^2\\) respectively
+Density of water and air are \\(1000\\) and \\(1.2 kg/m^3\\) and viscosities are \\(1\times10^{-3}\\) and \\(19\times10^{-6} Ns/m^2\\) respectively
 
 
 
 >## Challenge
 > What is the growth rate of a laminar boundary layer?
 > > ## Solution
-> > \\(\frac{\delta}{x} = \frac{5}{Re} \therefore\\)
-> > \\(\delta=\frac{5}{\sqrt{U}}\sqrt{\frac{\nu}{\rho}}\sqrt{x}\\)
+> > \\(\frac{\delta}{x} = \frac{5}{\sqrt{Re}} \therefore\\)
+> > \\(\delta=\frac{5}{\sqrt{U}}\sqrt{\frac{\mu}{\rho}}\sqrt{x}\\)
 > {: .solution}
 {: .challenge}
 
