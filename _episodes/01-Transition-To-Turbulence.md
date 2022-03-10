@@ -44,7 +44,7 @@ A smooth flat plate with a sharp leading edge is placed in a free stream of wate
 >## Challenge
 >What is the height of the boundary layer at this distance?
 > > ## Answer
-> > \\[\begin{align} \frac{\delta}{x} &=\frac{5}{Re} \newline \delta &= 0.1cm\end{align}\\]
+> > \\[\begin{align} \frac{\delta}{x} &=\frac{5}{\sqrt{Re}} \newline \delta &= 0.1cm\end{align}\\]
 >{: .solution}
 {: .challenge}
 
